@@ -1,4 +1,7 @@
 /* credit: http://www.csslab.cl/2008/01/30/ventana-modal-solo-con-css/ */
+.session_security {
+    z-index: 4000;
+}
 .session_security_overlay {
     position: fixed;
     top: 0;
